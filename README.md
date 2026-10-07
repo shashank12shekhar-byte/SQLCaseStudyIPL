@@ -4,8 +4,8 @@ This project analyzes IPL auction data using SQL queries and an interactive Powe
 
 Tech Stack:
 
-SQL (PostgreSQL/MySQL) 
+This SQL project is compatible with (PostgreSQL/MySQL) 
 
-Joins, CTEs, Window Functions, Subqueries, CASE statements
+Key Concepts: Joins, CTEs, Window Functions, Subqueries, CASE statements
 
 Power BI – Interactive dashboards, KPIs, slicers, and visual storytelling.
